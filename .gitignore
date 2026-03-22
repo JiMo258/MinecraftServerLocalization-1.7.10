@@ -1,22 +1,75 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
-.classpath
-.project
+﻿# Compiled class files
+*.class
 
-# idea
-out
+# Log files
+*.log
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
 *.ipr
 *.iws
-*.iml
-.idea
+out/
 
-# gradle
-build
-.gradle
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+*.launch
 
-# other
-eclipse
-run
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.BIN/
+
+# Minecraft
+run/
+logs/
+crash-reports/
+config/*.cfg
+mods/*.jar
+!mods/serverlocalization-1.0.jar
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.~lock.*
+
+# Backup files
+*.backup
+*_backup.*
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Large files (adjust size as needed)
+*.large
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
