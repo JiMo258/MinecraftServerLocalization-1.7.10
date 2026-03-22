@@ -41,9 +41,21 @@ general {
 }
 ```
 
+## 截图
+
+![](https://github.com/JiMo258/MinecraftServerLocalization-1.7.10/blob/main/screenshots/01.png?raw=true)
+![](https://github.com/JiMo258/MinecraftServerLocalization-1.7.10/blob/main/screenshots/02.png?raw=true)
+![](https://github.com/JiMo258/MinecraftServerLocalization-1.7.10/blob/main/screenshots/03.png?raw=true)
+![](https://github.com/JiMo258/MinecraftServerLocalization-1.7.10/blob/main/screenshots/04.png?raw=true)
+
 ## 已知问题
 
-模组会将服务端部分原版输出改为对应语言输出，可能会导致部分依赖输出语句判断服务器运行情况的插件失效。需要手动修改插件为对应的语句匹配。
+1.分析仪扫描部分显示仍为英文
+![](https://github.com/JiMo258/MinecraftServerLocalization-1.7.10/blob/main/screenshots/06.png?raw=true)
+
+2.模组会将服务端部分原版输出改为对应语言输出，可能会导致部分依赖输出语句判断服务器运行情况的插件失效。需要手动修改插件为对应的语句匹配。
+![](https://github.com/JiMo258/MinecraftServerLocalization-1.7.10/blob/main/screenshots/07.png?raw=true)
+![](https://github.com/JiMo258/MinecraftServerLocalization-1.7.10/blob/main/screenshots/05.png?raw=true)
 
 ## 翻译加载顺序
 
